@@ -1,108 +1,95 @@
 # 👋 Hi, I'm Mokara Durga Prasad
 
-Welcome to my GitHub profile! 🚀  
-This README serves as an overview of my skills, projects, experience, and journey in software development.  
-I’m passionate about building **real-world applications**, solving **competitive programming problems**, and contributing to **open-source projects**.
+<div align="center">
+  <p>Welcome to my GitHub profile! <span style="color:#00f5ff;">🚀</span></p>
+  <p>This README showcases my <b style="color:#00f5ff;">skills</b>, <b style="color:#ff00f5;">projects</b>, <b style="color:#00ff94;">experience</b>, and journey in software development.</p>
+  <p>💻 Turning <span style="color:#ff8c00;">coffee ☕ + code 💻</span> into impactful solutions!</p>
+</div>
 
 ---
 
-## 📌 About Me
+## 🌌 About Me
 - 🎓 **Parul University** – B.Tech in **Computer Science & Engineering (AI Specialization)** – *4th Year*  
-- 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Skilled in **Python & Front-End Development** with **Hands-on Project Experience**  
-- 🌱 Currently learning **Artificial Intelligence | Machine Learning | Deep Learning | Cloud Computing | Data Structures & Algorithms**  
-- 💼 Looking for opportunities as **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
-- 💡 I enjoy working on **scalable applications, system design, and solving real-world AI problems**  
-- 🏆 Competitive Programming Enthusiast → solving challenges on **LeetCode, CodeChef, HackerRank**  
-- ⚡ Fun Fact: I love turning **coffee ☕ + code 💻** into solutions that impact lives.  
+- 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Hands-on with **Python & Front-End Development**  
+- 🌱 Currently exploring **AI | ML | Deep Learning | Cloud Computing | DSA**  
+- 💼 Seeking roles as **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
+- 💡 Passionate about **scalable apps, system design & real-world AI solutions**  
+- 🏆 Competitive Programming Enthusiast → **LeetCode, CodeChef, HackerRank**  
+- ⚡ Fun Fact: I love futuristic tech vibes & glowing code aesthetics ✨  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming & Scripting Languages
-`Python` | `JavaScript` | `SQL`
-
-### Front-End Development
-`HTML` | `CSS` | `Bootstrap` | `CSS Flexbox` | `React.js`
-
-### Back-End Development
-`Node.js` | `DBMS` | `SQL`
-
-### Computer Science Fundamentals
-`Data Structures & Algorithms (DSA)`  
-
-### AI / Machine Learning
-`Machine Learning` | `Deep Learning` | `Computer Vision` | `NLP` | `AI Model Development`
+<div align="center">
+  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd>  
+  <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>CSS Flexbox</kbd> <kbd>React.js</kbd>  
+  <kbd>Node.js</kbd> <kbd>DBMS</kbd> <kbd>SQL</kbd>  
+  <kbd>DSA</kbd>  
+  <kbd>Machine Learning</kbd> <kbd>Deep Learning</kbd> <kbd>Computer Vision</kbd> <kbd>NLP</kbd> <kbd>AI Model Dev</kbd>
+</div>
 
 ---
 
 ## 💼 Experience
 
-### 🚀 Teaching Assistant at NxtWave
+### 🚀 Teaching Assistant @ NxtWave
 **Organization:** NxtWave – CCBP 4.0 Academy  
 **Role:** Teaching Assistant  
 **Duration:** Jan 2022 – Present (3 yrs 9 mos)  
-**Responsibilities:**  
-- Resolve students' doubts about **Python, HTML5, CSS3, JavaScript, and Bootstrap**  
-- Guide students in **hands-on projects** and exercises for front-end and back-end development  
-- Support learning in **Data Structures & Algorithms (DSA)** and other core CS concepts  
-- Mentor students in coding best practices and project implementation  
 
-**Skills Applied:**  
-- Programming & Scripting: `Python` | `JavaScript` | `SQL`  
-- Front-End Development: `HTML` | `CSS` | `Bootstrap` | `React.js` | `CSS Flexbox`  
-- Back-End Development: `Node.js` | `DBMS` | `SQL`  
+**Responsibilities:**  
+- Resolve doubts in **Python, HTML5, CSS3, JS, Bootstrap**  
+- Guide hands-on **front-end & back-end projects**  
+- Mentor **DSA concepts** and coding best practices  
+
+**Tech Stack Used:**  
+<div align="center">
+  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>React.js</kbd> <kbd>Node.js</kbd>
+</div>
 
 ---
 
 ## 📂 Projects  
 
-### 🔹 Project 1: **Food Munch** 
-**Description:** Developed a responsive Food Store website with product listings, offers, and embedded videos.  
-- **Tech Stack:** `HTML` | `CSS` | `Bootstrap` | `Flexbox`  
-- **Features:**  
-  - Responsive UI design for multiple devices  
-  - Interactive product listings and offers  
-  - Embedded video integration  
-- **Live Demo:** [https://mdurga.ccbp.tech/](https://mdurga.ccbp.tech/)  
+### 🔹 Food Munch
+**Responsive Food Store Website**  
+- **Tech:** `HTML | CSS | Bootstrap | Flexbox`  
+- **Features:** Responsive UI, interactive products, video integration  
+- **Live:** [Food Munch](https://mdurga.ccbp.tech/)  
 
-### 🔹 Project 2: **Countries Search**  
-**Description:** Built a responsive country search tool with real-time population data.  
-- **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `REST API Calls` | `Bootstrap`  
-- **Lines of Code:** ~600 LOC  
-- **Features:**  
-  - Real-time search for countries with population info  
-  - REST API integration for dynamic data fetching  
-  - Responsive and mobile-friendly design  
-- **Live Demo:** [https://durgacountry.ccbp.tech/](https://durgacountry.ccbp.tech/)  
+### 🔹 Countries Search
+**Real-time country search tool**  
+- **Tech:** `HTML | CSS | JS | REST API | Bootstrap`  
+- **Features:** Dynamic population data, REST API calls, responsive design  
+- **Live:** [Countries Search](https://durgacountry.ccbp.tech/)  
 
-### 🔹 Project 3: **Wikipedia Search Application**  
-**Description:** Built a custom Wikipedia search app with real-time results and external link handling.  
-- **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Bootstrap` | `REST API Calls`  
-- **Lines of Code:** ~700 LOC  
-- **Features:**  
-  - Real-time search results from Wikipedia API  
-  - External links open in a new tab  
-  - Clean and responsive interface  
-- **Live Demo:** [https://mdurgawikipedia.ccbp.tech/](https://mdurgawikipedia.ccbp.tech/)  
+### 🔹 Wikipedia Search Application
+**Custom Wikipedia search app**  
+- **Tech:** `HTML | CSS | JS | Bootstrap | REST API`  
+- **Features:** Real-time results, external links, clean UI  
+- **Live:** [Wikipedia App](https://mdurgawikipedia.ccbp.tech/)  
 
 ---
 
-## 🏆 Competitive Programming & Coding Profiles  
+## 🏆 Competitive Programming
 
-- 🔗 **LeetCode:** [durgamokara15](https://leetcode.com/u/durgamokara15/)  
-- 🔗 **CodeChef:** [durgamokara15](https://www.codechef.com/users/durgamokara15)  
-- 🔗 **HackerRank:** [mdurgaprasad](https://www.hackerrank.com/profile/mdurgaprasad)  
+<div align="center">
+  <a href="https://leetcode.com/u/durgamokara15/"><img src="https://img.shields.io/badge/LeetCode-durgamokara15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/durgamokara15"><img src="https://img.shields.io/badge/CodeChef-durgamokara15-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/mdurgaprasad"><img src="https://img.shields.io/badge/HackerRank-mdurgaprasad-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</div>
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 **LinkedIn:** [Durga Prasad Mokara](https://www.linkedin.com/in/durga-prasad-mokara/)  
-- 🐦 **Twitter (X):** [@durgaprasad_15](https://x.com/durgaprasad_15)  
-- 🌎 **Portfolio / Website:** [Your Portfolio](-----------------------)  
-- 🤗 **Hugging Face:** [durgamokara15](https://huggingface.co/durgamokara15)  
-- 📧 **Email:** durgamokara15@email.com  
+<div align="center">
+  <a href="https://www.linkedin.com/in/durga-prasad-mokara/"><img src="https://img.shields.io/badge/LinkedIn-Durga%20Prasad%20Mokara-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/durgaprasad_15"><img src="https://img.shields.io/badge/Twitter(@X)-durgaprasad_15-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://huggingface.co/durgamokara15"><img src="https://img.shields.io/badge/HuggingFace-durgamokara15-orange?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+  <a href="mailto:durgamokara15@email.com"><img src="https://img.shields.io/badge/Email-durgamokara15@email.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 ---
 
