@@ -1,18 +1,24 @@
-# 👋 Hi, I'm Mokara Durga Prasad
+<!-- =============================== -->
+<!-- 👋 Welcome Section with Neon Glow -->
+<!-- =============================== -->
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00f5ff;">Mokara Durga Prasad</span>
+</h1>
 
 <div align="center">
-  <p>Welcome to my GitHub profile! <span style="color:#00f5ff;">🚀</span></p>
-  <p>This README showcases my <b style="color:#00f5ff;">skills</b>, <b style="color:#ff00f5;">projects</b>, <b style="color:#00ff94;">experience</b>, and journey in software development.</p>
-  <p>💻 Turning <span style="color:#ff8c00;">coffee ☕ + code 💻</span> into impactful solutions!</p>
+  <p>Welcome to my futuristic GitHub profile! 🚀</p>
+  <p>💻 Turning <span style="color:#ff8c00;">coffee ☕ + code 💻</span> into real-world impact!</p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
 </div>
 
 ---
 
 ## 🌌 About Me
-- 🎓 **Parul University** – B.Tech in **Computer Science & Engineering (AI Specialization)** – *4th Year*  
+- 🎓 **Parul University** – B.Tech in **CSE (AI Specialization)** – *4th Year*  
 - 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Hands-on with **Python & Front-End Development**  
-- 🌱 Currently exploring **AI | ML | Deep Learning | Cloud Computing | DSA**  
-- 💼 Seeking roles as **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
+- 🌱 Currently learning **AI | ML | Deep Learning | Cloud Computing | DSA**  
+- 💼 Looking for **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
 - 💡 Passionate about **scalable apps, system design & real-world AI solutions**  
 - 🏆 Competitive Programming Enthusiast → **LeetCode, CodeChef, HackerRank**  
 - ⚡ Fun Fact: I love futuristic tech vibes & glowing code aesthetics ✨  
@@ -22,11 +28,21 @@
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd>  
-  <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>CSS Flexbox</kbd> <kbd>React.js</kbd>  
-  <kbd>Node.js</kbd> <kbd>DBMS</kbd> <kbd>SQL</kbd>  
-  <kbd>DSA</kbd>  
-  <kbd>Machine Learning</kbd> <kbd>Deep Learning</kbd> <kbd>Computer Vision</kbd> <kbd>NLP</kbd> <kbd>AI Model Dev</kbd>
+  <kbd style="background:#0ff;color:#000;">Python</kbd>
+  <kbd style="background:#ff0;color:#000;">JavaScript</kbd>
+  <kbd style="background:#f0f;color:#000;">SQL</kbd>
+  <kbd style="background:#0f0;color:#000;">HTML</kbd>
+  <kbd style="background:#0ff;color:#000;">CSS</kbd>
+  <kbd style="background:#ff00ff;color:#000;">Bootstrap</kbd>
+  <kbd style="background:#ff4500;color:#000;">CSS Flexbox</kbd>
+  <kbd style="background:#00f;color:#fff;">React.js</kbd>
+  <kbd style="background:#0ff;color:#000;">Node.js</kbd>
+  <kbd style="background:#ff6347;color:#000;">DBMS</kbd>
+  <kbd style="background:#ff69b4;color:#000;">DSA</kbd>
+  <kbd style="background:#00ffea;color:#000;">Machine Learning</kbd>
+  <kbd style="background:#ff1493;color:#000;">Deep Learning</kbd>
+  <kbd style="background:#7fffd4;color:#000;">Computer Vision</kbd>
+  <kbd style="background:#ff4500;color:#000;">NLP</kbd>
 </div>
 
 ---
@@ -43,32 +59,44 @@
 - Guide hands-on **front-end & back-end projects**  
 - Mentor **DSA concepts** and coding best practices  
 
-**Tech Stack Used:**  
 <div align="center">
-  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>React.js</kbd> <kbd>Node.js</kbd>
+  <kbd>Python</kbd>
+  <kbd>JavaScript</kbd>
+  <kbd>SQL</kbd>
+  <kbd>HTML</kbd>
+  <kbd>CSS</kbd>
+  <kbd>Bootstrap</kbd>
+  <kbd>React.js</kbd>
+  <kbd>Node.js</kbd>
 </div>
 
 ---
 
-## 📂 Projects  
+## 📂 Projects
 
 ### 🔹 Food Munch
 **Responsive Food Store Website**  
 - **Tech:** `HTML | CSS | Bootstrap | Flexbox`  
 - **Features:** Responsive UI, interactive products, video integration  
 - **Live:** [Food Munch](https://mdurga.ccbp.tech/)  
+- **Preview:**  
+<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="400"/>
 
 ### 🔹 Countries Search
 **Real-time country search tool**  
 - **Tech:** `HTML | CSS | JS | REST API | Bootstrap`  
 - **Features:** Dynamic population data, REST API calls, responsive design  
 - **Live:** [Countries Search](https://durgacountry.ccbp.tech/)  
+- **Preview:**  
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400"/>
 
 ### 🔹 Wikipedia Search Application
 **Custom Wikipedia search app**  
 - **Tech:** `HTML | CSS | JS | Bootstrap | REST API`  
 - **Features:** Real-time results, external links, clean UI  
 - **Live:** [Wikipedia App](https://mdurgawikipedia.ccbp.tech/)  
+- **Preview:**  
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="400"/>
 
 ---
 
@@ -82,7 +110,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/durga-prasad-mokara/"><img src="https://img.shields.io/badge/LinkedIn-Durga%20Prasad%20Mokara-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
