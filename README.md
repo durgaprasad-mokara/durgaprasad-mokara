@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>Welcome to my GitHub profile! 🚀</p>
-  <p>💻 Turning <span style="color:#ff8c00;">coffee ☕ + code 💻</span> into real-world impact!</p>
+  <p>💻 Turning <span style="color:#ff8c00;">“I don’t just code, I code your future 🚀💻!</p>
 
 </div>
 
