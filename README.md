@@ -7,9 +7,9 @@
 </h1>
 
 <div align="center">
-  <p>Welcome to my futuristic GitHub profile! 🚀</p>
+  <p>Welcome to my GitHub profile! 🚀</p>
   <p>💻 Turning <span style="color:#ff8c00;">coffee ☕ + code 💻</span> into real-world impact!</p>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+
 </div>
 
 ---
@@ -80,7 +80,7 @@
 - **Features:** Responsive UI, interactive products, video integration  
 - **Live:** [Food Munch](https://mdurga.ccbp.tech/)  
 - **Preview:**  
-<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="400"/>
+
 
 ### 🔹 Countries Search
 **Real-time country search tool**  
@@ -88,7 +88,7 @@
 - **Features:** Dynamic population data, REST API calls, responsive design  
 - **Live:** [Countries Search](https://durgacountry.ccbp.tech/)  
 - **Preview:**  
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400"/>
+
 
 ### 🔹 Wikipedia Search Application
 **Custom Wikipedia search app**  
@@ -96,7 +96,7 @@
 - **Features:** Real-time results, external links, clean UI  
 - **Live:** [Wikipedia App](https://mdurgawikipedia.ccbp.tech/)  
 - **Preview:**  
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="400"/>
+
 
 ---
 
