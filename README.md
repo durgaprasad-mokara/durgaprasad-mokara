@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mokara Durga Prasad
 
 Welcome to my GitHub profile! 🚀  
 This README serves as an overview of my skills, projects, experience, and journey in software development.  
@@ -7,114 +7,103 @@ I’m passionate about building **real-world applications**, solving **competiti
 ---
 
 ## 📌 About Me
-- 🌱 Currently learning **[Your Focus Area: e.g., AI, Web Development, Cloud, DSA, etc.]**  
-- 💼 Looking for opportunities as **Software Developer | Backend Engineer | Full-Stack Developer**  
-- 💡 I enjoy working on **scalable applications, system design, and problem-solving**  
-- 🏆 Competitive Programming Enthusiast → solving challenges on **LeetCode, Codeforces, HackerRank**  
+- 🎓 **Parul University** – B.Tech in **Computer Science & Engineering (AI Specialization)** – *4th Year*  
+- 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Skilled in **Python & Front-End Development** with **Hands-on Project Experience**  
+- 🌱 Currently learning **Artificial Intelligence | Machine Learning | Deep Learning | Cloud Computing | Data Structures & Algorithms**  
+- 💼 Looking for opportunities as **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
+- 💡 I enjoy working on **scalable applications, system design, and solving real-world AI problems**  
+- 🏆 Competitive Programming Enthusiast → solving challenges on **LeetCode, CodeChef, HackerRank**  
 - ⚡ Fun Fact: I love turning **coffee ☕ + code 💻** into solutions that impact lives.  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Languages  
-`C++` | `Java` | `Python` | `JavaScript` | `TypeScript` | `Go` | `SQL` | `HTML` | `CSS`
+### Programming & Scripting Languages
+`Python` | `JavaScript` | `SQL`
 
-### Frameworks & Libraries  
-`React.js` | `Next.js` | `Node.js` | `Express` | `Spring Boot` | `Flask` | `Django` | `Tailwind CSS`
+### Front-End Development
+`HTML` | `CSS` | `Bootstrap` | `CSS Flexbox` | `React.js`
 
-### Databases  
-`MySQL` | `PostgreSQL` | `MongoDB` | `Redis` | `Firebase`
+### Back-End Development
+`Node.js` | `DBMS` | `SQL`
 
-### Tools & Platforms  
-`Git` | `GitHub` | `Linux` | `Docker` | `Kubernetes` | `AWS` | `GCP` | `VS Code` | `IntelliJ`
+### Computer Science Fundamentals
+`Data Structures & Algorithms (DSA)`  
+
+### AI / Machine Learning
+`Machine Learning` | `Deep Learning` | `Computer Vision` | `NLP` | `AI Model Development`
 
 ---
 
 ## 💼 Experience
 
-### 🚀 [Your Company / Internship / Freelance Experience]  
-**Role:** [Software Engineer Intern / Developer / etc.]  
-**Duration:** [Month YYYY – Month YYYY]  
-- Built and optimized [Feature Name] for [Application Name], reducing response time by **X%**  
-- Wrote **[No. of Lines] LOC** across multiple services in **[Language/Tech]**  
-- Integrated [APIs/Databases/Cloud Tools] to support **scalability and efficiency**  
-- Mentored juniors on **[Skill/Project]**  
+### 🚀 Teaching Assistant at NxtWave
+**Organization:** NxtWave – CCBP 4.0 Academy  
+**Role:** Teaching Assistant  
+**Duration:** Jan 2022 – Present (3 yrs 9 mos)  
+**Responsibilities:**  
+- Resolve students' doubts about **Python, HTML5, CSS3, JavaScript, and Bootstrap**  
+- Guide students in **hands-on projects** and exercises for front-end and back-end development  
+- Support learning in **Data Structures & Algorithms (DSA)** and other core CS concepts  
+- Mentor students in coding best practices and project implementation  
+
+**Skills Applied:**  
+- Programming & Scripting: `Python` | `JavaScript` | `SQL`  
+- Front-End Development: `HTML` | `CSS` | `Bootstrap` | `React.js` | `CSS Flexbox`  
+- Back-End Development: `Node.js` | `DBMS` | `SQL`  
 
 ---
 
 ## 📂 Projects  
 
-Here are some of my top projects 👇  
-
-### 🔹 Project 1: **Water Pipeline Cost Management**  
-**Description:** Solves transport cost queries and supports dynamic updates in a tree structure.  
-- **Tech Stack:** `C++14`, `DSA`, `Graphs`, `LCA`  
-- **Lines of Code:** ~1200 LOC  
+### 🔹 Project 1: **Food Munch** 
+**Description:** Developed a responsive Food Store website with product listings, offers, and embedded videos.  
+- **Tech Stack:** `HTML` | `CSS` | `Bootstrap` | `Flexbox`  
 - **Features:**  
-  - Query transport costs efficiently in **O(log N)**  
-  - Update edge weights dynamically  
-  - Optimized using **Heavy-Light Decomposition**  
-- **GitHub Repo:** [Link Here](#)  
-- **Visitors Count:** ![Visits](https://visitor-badge.laobi.icu/badge?page_id=username.project1)  
+  - Responsive UI design for multiple devices  
+  - Interactive product listings and offers  
+  - Embedded video integration  
+- **Live Demo:** [https://mdurga.ccbp.tech/](https://mdurga.ccbp.tech/)  
 
----
-
-### 🔹 Project 2: **[Your Project Name]**  
-**Description:** [Explain your project briefly]  
-- **Tech Stack:** `React`, `Node.js`, `MongoDB`  
-- **Lines of Code:** ~3000 LOC  
+### 🔹 Project 2: **Countries Search**  
+**Description:** Built a responsive country search tool with real-time population data.  
+- **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `REST API Calls` | `Bootstrap`  
+- **Lines of Code:** ~600 LOC  
 - **Features:**  
-  - [Feature 1]  
-  - [Feature 2]  
-  - [Feature 3]  
-- **GitHub Repo:** [Link Here](#)  
-- **Visitors Count:** ![Visits](https://visitor-badge.laobi.icu/badge?page_id=username.project2)  
+  - Real-time search for countries with population info  
+  - REST API integration for dynamic data fetching  
+  - Responsive and mobile-friendly design  
+- **Live Demo:** [https://durgacountry.ccbp.tech/](https://durgacountry.ccbp.tech/)  
 
----
-
-### 🔹 Project 3: **[Your Project Name]**  
-**Description:** [Explain your project briefly]  
-- **Tech Stack:** `Python`, `Flask`, `SQLAlchemy`  
-- **Lines of Code:** ~2000 LOC  
+### 🔹 Project 3: **Wikipedia Search Application**  
+**Description:** Built a custom Wikipedia search app with real-time results and external link handling.  
+- **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Bootstrap` | `REST API Calls`  
+- **Lines of Code:** ~700 LOC  
 - **Features:**  
-  - [Feature 1]  
-  - [Feature 2]  
-- **GitHub Repo:** [Link Here](#)  
-- **Visitors Count:** ![Visits](https://visitor-badge.laobi.icu/badge?page_id=username.project3)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+  - Real-time search results from Wikipedia API  
+  - External links open in a new tab  
+  - Clean and responsive interface  
+- **Live Demo:** [https://mdurgawikipedia.ccbp.tech/](https://mdurgawikipedia.ccbp.tech/)  
 
 ---
 
 ## 🏆 Competitive Programming & Coding Profiles  
 
-- 🔗 **LeetCode:** [Your LeetCode Profile](https://leetcode.com/yourusername/)  
-- 🔗 **Codeforces:** [Your Codeforces Profile](https://codeforces.com/profile/yourusername)  
-- 🔗 **HackerRank:** [Your HackerRank Profile](https://www.hackerrank.com/yourusername)  
-- 🔗 **GeeksforGeeks:** [Your GFG Profile](https://auth.geeksforgeeks.org/user/yourusername)  
+- 🔗 **LeetCode:** [durgamokara15](https://leetcode.com/u/durgamokara15/)  
+- 🔗 **CodeChef:** [durgamokara15](https://www.codechef.com/users/durgamokara15)  
+- 🔗 **HackerRank:** [mdurgaprasad](https://www.hackerrank.com/profile/mdurgaprasad)  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)  
-- 🌎 **Portfolio/Website:** [yourportfolio.com](https://yourportfolio.com)  
-- 📧 **Email:** yourname@email.com  
-- 🐦 **Twitter (X):** [@yourhandle](https://twitter.com/yourhandle)  
+- 💼 **LinkedIn:** [Durga Prasad Mokara](https://www.linkedin.com/in/durga-prasad-mokara/)  
+- 🐦 **Twitter (X):** [@durgaprasad_15](https://x.com/durgaprasad_15)  
+- 🌎 **Portfolio / Website:** [Your Portfolio](-----------------------)  
+- 🤗 **Hugging Face:** [durgamokara15](https://huggingface.co/durgamokara15)  
+- 📧 **Email:** durgamokara15@email.com  
 
 ---
 
-## 📈 Profile Visitors  
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)  
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Mokara Durga Prasad](https://github.com/durgaprasad-mokara)
