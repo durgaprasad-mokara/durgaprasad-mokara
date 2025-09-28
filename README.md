@@ -17,7 +17,7 @@
 ## 🌌 About Me
 - 🎓 **Parul University** – B.Tech in **CSE (AI Specialization)** – *4th Year*  
 - 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Hands-on with **Python & Front-End Development**  
-- 🌱 Currently learning **AI | ML | Deep Learning | Cloud Computing | DSA**  
+- 🌱 Currently learning **AI | ML | Deep Learning | DSA**  
 - 💼 Looking for **Software Developer | Backend Engineer | AI Engineer | Full-Stack Developer**  
 - 💡 Passionate about **scalable apps, system design & real-world AI solutions**  
 - 🏆 Competitive Programming Enthusiast → **LeetCode, CodeChef, HackerRank**  
@@ -41,8 +41,8 @@
   <kbd style="background:#ff69b4;color:#000;">DSA</kbd>
   <kbd style="background:#00ffea;color:#000;">Machine Learning</kbd>
   <kbd style="background:#ff1493;color:#000;">Deep Learning</kbd>
-  <kbd style="background:#7fffd4;color:#000;">Computer Vision</kbd>
   <kbd style="background:#ff4500;color:#000;">NLP</kbd>
+  <kbd style="background:#ff4500;color:#000;">Prompt Engineering</kbd>
 </div>
 
 ---
