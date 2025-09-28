@@ -15,6 +15,7 @@
 ---
 
 ## 🌌 About Me
+
 - 🎓 **Parul University** – B.Tech in **CSE (AI Specialization)** – *4th Year*  
 - 🎯 **Fellow at NxtWave’s CCBP 4.0 Academy** – Hands-on with **Python & Front-End Development**  
 - 🌱 Currently learning **AI | ML | Deep Learning | DSA**  
